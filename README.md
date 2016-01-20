@@ -11,9 +11,8 @@ Install dependencies, run:
 
     npm install
 
-To build the project, run this command:
 
-To build the project, first run this command:
+To build the project, run this command:
 
     npm start
     
